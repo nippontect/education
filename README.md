@@ -2,6 +2,8 @@
 
 ## アーキテクチャ
 
+コンピュータの基本（各自が学習　基本編と応用編（ネットワーク・セキュリティ編）は必須）
+
 [一週間でわかるコンピュータリテラシー](http://sevendays-study.com/computer-literacy/index.html)
 
 ### ネイティブアプリ（主にWindows）とWebアプリ
@@ -15,7 +17,6 @@
 #### Webアプリのアーキテクチャ
 
 [Webアプリケーションの全体像を掴む](https://qiita.com/tamago3keran/items/f470593926458b7ef52a)
-
 
 ## C#
 
