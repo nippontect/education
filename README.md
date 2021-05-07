@@ -22,6 +22,10 @@
 
 [一週間で身につくC#言語の基本](http://csharp.sevendays-study.com/index.html)
 
+「一週間で身につくC#言語の基本」の基本編と同時に[C# フォーム入門](http://kaitei.net/csforms/)の1～5も確認して、
+
+プログラムに入力値を渡す手段も学ぶ。
+
 
 
 
