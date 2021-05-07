@@ -26,6 +26,12 @@
 
 プログラムに入力値を渡す手段も学ぶ。
 
+## データベース
 
+MYSQLをインストールしてデータベースの学習
+
+[MYSQLをダウンロード](https://dev.mysql.com/downloads/installer/)
+
+[一週間で身につくMySQL](http://web.sevendays-study.com/mysql/)
 
 
