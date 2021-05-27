@@ -47,4 +47,6 @@ MYSQLをインストールしてデータベースの学習
 
 例えば乗車距離が2.8ｋｍならば料金の計算は3ｋｍで行う。
 
+### Line社員研修の課題
 
+[LINEの新卒採用試験ズバリ問題解説 〜2021年開発コース(実装問題)版〜](https://engineering.linecorp.com/ja/blog/commentary-of-coding-test-2021/)
